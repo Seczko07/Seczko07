@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Seczko07
 - 👀 I’m interested in Technology, Chemistry and Engineering and I love music
 - 🌱 I’m a ChemE student and seek to learn more about computational chemistry
-- 📫 You can contact me: Sabcartist@hotmail.com
+- 📫 You can contact me: s.bustamante9395@gmail.com
 
 <!---
 Seczko07/Seczko07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
